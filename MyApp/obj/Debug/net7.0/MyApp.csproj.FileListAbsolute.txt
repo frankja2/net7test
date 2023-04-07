@@ -1,0 +1,15 @@
+/home/osboxes/MyApp/bin/Debug/net7.0/MyApp
+/home/osboxes/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/home/osboxes/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/home/osboxes/MyApp/bin/Debug/net7.0/MyApp.dll
+/home/osboxes/MyApp/bin/Debug/net7.0/MyApp.pdb
+/home/osboxes/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/home/osboxes/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/osboxes/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/home/osboxes/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/home/osboxes/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/home/osboxes/MyApp/obj/Debug/net7.0/MyApp.dll
+/home/osboxes/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/home/osboxes/MyApp/obj/Debug/net7.0/MyApp.pdb
+/home/osboxes/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/home/osboxes/MyApp/obj/Debug/net7.0/ref/MyApp.dll
