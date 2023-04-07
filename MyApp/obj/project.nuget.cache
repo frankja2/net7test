@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kdoPXq89K8YM3odfx0+qIRytkq27B8V4ykNZQxKazF3q2jFg2bUc/pfaBTihVVeTcwsL+FyUIYPinxWjRjK3AQ==",
+  "dgSpecHash": "fKCFZrPLzYkP5q6/Z4oCc7LBaZlsI2cGfqV2gR2OU9CGDU8I9uBkSKa7OnXaP4RYE0ZCsHGUc9MJn/RpnN1rZQ==",
   "success": true,
-  "projectFilePath": "/home/osboxes/MyApp/MyApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/osboxes/net7test/MyApp/MyApp.csproj",
+  "expectedPackageFiles": [
+    "/home/osboxes/.nuget/packages/microsoft.net.build.containers/0.4.0/microsoft.net.build.containers.0.4.0.nupkg.sha512"
+  ],
   "logs": []
 }

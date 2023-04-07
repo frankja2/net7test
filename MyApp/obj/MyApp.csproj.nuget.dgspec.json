@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/osboxes/MyApp/MyApp.csproj": {}
+    "/home/osboxes/net7test/MyApp/MyApp.csproj": {}
   },
   "projects": {
-    "/home/osboxes/MyApp/MyApp.csproj": {
+    "/home/osboxes/net7test/MyApp/MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/osboxes/MyApp/MyApp.csproj",
+        "projectUniqueName": "/home/osboxes/net7test/MyApp/MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "/home/osboxes/MyApp/MyApp.csproj",
+        "projectPath": "/home/osboxes/net7test/MyApp/MyApp.csproj",
         "packagesPath": "/home/osboxes/.nuget/packages/",
-        "outputPath": "/home/osboxes/MyApp/obj/",
+        "outputPath": "/home/osboxes/net7test/MyApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/osboxes/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Build.Containers": {
+              "target": "Package",
+              "version": "[0.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
